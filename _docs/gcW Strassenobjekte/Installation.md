@@ -1,17 +1,11 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: Installation
+category: gcW Strassenobjekte
 order: 1
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+Die Installation erfolgt aktuell ausschließlich über den Steam Workshop. Das Set kann [hier](https://steamcommunity.com/sharedfiles/filedetails/?id=1518967033) abonniert werden.
 
-> Signing up with Facebook automatically starts syncing contacts.
+Anschließend sollte LOTUS einmal normal gestartet werden, dann sollten die Objekte auch im Karten-Editor zu finden sein.
 
-To sync your contacts:
-
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
-
-![](//placehold.it/800x600)
+> Dieses Set hat keine anderen Workshop-Pakete als Voraussetzung.
