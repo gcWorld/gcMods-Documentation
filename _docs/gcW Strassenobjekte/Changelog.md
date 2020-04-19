@@ -6,6 +6,10 @@ order: 3
 
 Hier sind alle Änderungen der jeweiligen Versionen gelistet.
 
+> Bestandteil des nächsten Updates (noch nicht veröffentlicht):
+> - Leitpfosten weiß hat nun CAT2 (wahr fälschlicher Weise CAT3)
+>
+
 ### 1.3
 #### Änderungen
 - Neue verbesserte Texturen für die Leitpfosten (weiß, gelb)
