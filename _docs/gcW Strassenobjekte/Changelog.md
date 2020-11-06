@@ -7,8 +7,22 @@ order: 3
 Hier sind alle Änderungen der jeweiligen Versionen gelistet.
 
 > Bestandteil des nächsten Updates (noch nicht veröffentlicht):
-> - Leitpfosten weiß hat nun CAT2 (wahr fälschlicher Weise CAT3)
+> - Derzeit nichts
 >
+
+### 1.4.1
+#### Änderungen
+- Fehlerhafte LOD der Absturzsicherung entfernt
+
+#### Neu
+- Hydranten und Wasser Schilder hinzugefügt
+
+### 1.4
+#### Änderungen
+- Leitpfosten weiß hat nun CAT2 (wahr fälschlicher Weise CAT3)
+
+#### Neu
+- Absturzsicherung hinzugefügt
 
 ### 1.3
 #### Änderungen

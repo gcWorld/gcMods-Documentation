@@ -4,14 +4,28 @@ category: gcW Streetobjects
 order: 3
 ---
 
-Hier sind alle Änderungen der jeweiligen Versionen gelistet.
+This is a changelog of all released versions:
+
+### 1.4.1
+#### Changes
+- Fixed LOD of barrier
+
+#### Newly Added
+- Hydrant and water signs added
+
+### 1.4
+#### Changes
+- delineator post white, fixed visibility. Now CAT2 (was CAT3)
+
+#### Newly Added
+- Barrier added
 
 ### 1.3
-#### Änderungen
+#### Changes
 - New textures for delineator post (white, yellow)
 
 ### 1.2
-#### Neu
+#### Newly Added
 - New and improved safety beacon lamp red.
 
 ### 1.1
